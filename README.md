@@ -1,5 +1,4 @@
-# Awesome-hyperspectral-object-tracking
-Paper list for hyperspectral object tracking
+# Paper list for hyperspectral object tracking
 
 ## Year 2024
 * [TGRS-2024] **SPIRIT: Spectral Awareness Interaction Network With Dynamic Template for Hyperspectral Object Tracking**, Yuzeng Chen, Qiangqiang Yuan, Yuqi Tang, Yi Xiao, Jiang He, Liangpei Zhang.
