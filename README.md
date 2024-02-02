@@ -6,6 +6,10 @@ Paper list for hyperspectral object tracking
   [[Paper](https://ieeexplore.ieee.org/abstract/document/10375560)]
 
 ## Year 2023
+* [arXiv-2023] **Hy-Tracker: A Novel Framework for Enhancing Efficiency and Accuracy of Object Tracking in Hyperspectral Videos**, Mohammad Aminul Islam, Wangzhi Xing, Jun Zhou, Yongsheng Gao, Kuldip K. Paliwal.
+  [[Paper](https://browse.arxiv.org/pdf/2311.18199.pdf)]
+* [arXiv-2023] **HHTrack: Hyperspectral Object Tracking Using Hybrid Attention**, Yuedong Tan, Wenfang Sun, Jieran Yuan, Wenwang Du, Zhe Wang, Nan Mao, Beibei Song.
+  [[Paper](https://browse.arxiv.org/pdf/2308.07016.pdf)]
 * [TGRS-2023] **SiamOHOT: A Lightweight Dual Siamese Network for Onboard Hyperspectral Object Tracking via Joint Spatial–Spectral Knowledge Distillation**, Chen Sun, Xinyu Wang, Zhenqi Liu, Yuting Wan, Liangpei Zhang, Yanfei Zhong.
   [[Paper](https://ieeexplore.ieee.org/abstract/document/10225562)]
 * [TGRS-2023] **CBFF-Net: A New Framework for Efficient and Accurate Hyperspectral Object Tracking**, Long Gao, Pan Liu, Yan Jiang, Weiying Xie, Jie Lei, Yunsong Li, Qian Du.
