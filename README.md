@@ -39,11 +39,14 @@ Paper list for hyperspectral object tracking
   [[Paper](https://ieeexplore.ieee.org/abstract/document/8960632)]
   [[Code](https://www.xiongfuli.com/cv/code/MHT_release.zip)]
 
+## Year 2019
+* [TGRS-2019] **Tracking in Aerial Hyperspectral Videos Using Deep Kernelized Correlation Filters**, Burak Uzkent, Aneesh Rangnekar, Matthew J. Hoffman.
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/8435971/)]
+  [[Code](https://github.com/uzkent/HKCF_Tracker)]
+
 ## Year 2018
 * [ICSM-2018] **Object Tracking in Hyperspectral Videos with Convolutional Features and Kernelized Correlation Filter**, Kun Qian, Jun Zhou, Fengchao Xiong, Huixin Zhou, Juan Du.
   [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-04375-9_26)]
   [[Code](https://www.xiongfuli.com/cv/code/ICSM.zip)]
-* [TGRS-2018] **Tracking in Aerial Hyperspectral Videos Using Deep Kernelized Correlation Filters**, Burak Uzkent, Aneesh Rangnekar, Matthew J. Hoffman.
-  [[Paper](https://ieeexplore.ieee.org/abstract/document/8435971/)]
-  [[Code](https://github.com/uzkent/HKCF_Tracker)]
+
   
