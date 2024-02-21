@@ -62,6 +62,8 @@
   [[Paper](https://ieeexplore.ieee.org/abstract/document/9868064)]
 
 ## Year 2021
+* [RS-2021] **Object Tracking in Hyperspectral-Oriented Video with Fast Spatial-Spectral Features**, Lulu Chen, Yongqiang Zhao, Jiaxin Yao, Jiaxin Chen, Ning Li, Jonathan Cheung-Wai Chan, Seong G. Kong.
+  [[Paper](https://www.mdpi.com/2072-4292/13/10/1922)]
 * [WHISPERS-2021] **An Anchor-Free Siamese Target Tracking Network for Hyperspectral Video**, Zhenqi Liu, Xinyu Wang, Meng Shu, Guanzhong Li, Chen Sun, Ziying Liu, Yanfei Zhong.
   [[Paper](https://ieeexplore.ieee.org/abstract/document/9483958)]
 * [WHISPERS-2021] **Spectral-Spatial-Temporal Attention Network for Hyperspectral Tracking**, Zhuanfeng Li, Xinhai Ye, Fengchao Xiong, Jianfeng Lu, Jun Zhou, Yuntao Qian.
