@@ -1,6 +1,9 @@
 # Paper list for hyperspectral object tracking
 
 ## Year 2024
+* [TGRS-2024] **Material-Guided Multiview Fusion Network for Hyperspectral Object Tracking**, Zhuanfeng Li, Fengchao Xiong, Jun Zhou, Jianfeng Lu, Zhuang Zhao, Yuntao Qian.
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/10438474)]
+  [[Code](https://github.com/hscv/MMF-Net)]
 * [TGRS-2024] **SPIRIT: Spectral Awareness Interaction Network With Dynamic Template for Hyperspectral Object Tracking**, Yuzeng Chen, Qiangqiang Yuan, Yuqi Tang, Yi Xiao, Jiang He, Liangpei Zhang.
   [[Paper](https://ieeexplore.ieee.org/abstract/document/10375560)]
 
