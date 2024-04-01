@@ -3,6 +3,8 @@
 ## Year 2024
 * [axriv-2024] **SSF-Net: Spatial-Spectral Fusion Network with Spectral Angle Awareness for Hyperspectral Object Tracking**, Hanzheng Wang, Wei Li, Xiang-Gen Xia, Qian Du, Jing Tian.
   [[Paper](https://arxiv.org/pdf/2403.05852.pdf)]
+* [TGRS-2024] **A Channel Adaptive Dual Siamese Network for Hyperspectral Object Tracking**, Xiao Jiang, Xinyu Wang, Chen Sun, Zengliang Zhu, Yanfei Zhong.
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/10474033)]
 * [TGRS-2024] **Material-Guided Multiview Fusion Network for Hyperspectral Object Tracking**, Zhuanfeng Li, Fengchao Xiong, Jun Zhou, Jianfeng Lu, Zhuang Zhao, Yuntao Qian.
   [[Paper](https://ieeexplore.ieee.org/abstract/document/10438474)]
   [[Code](https://github.com/hscv/MMF-Net)]
