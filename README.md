@@ -1,6 +1,8 @@
 # Paper list for hyperspectral object tracking
 
 ## Year 2024
+* [Inf Fusion-2024] **SENSE: Hyperspectral Video Object Tracker via Fusing Material and Motion Cues**, Yuzeng Chen, Qiangqiang Yuan, Yuqi Tang, Yi Xiao, Jiang He, Zhenqi Liu.
+  [[Paper](https://www.sciencedirect.com/science/article/pii/S1566253524001738)]
 * [axriv-2024] **SSF-Net: Spatial-Spectral Fusion Network with Spectral Angle Awareness for Hyperspectral Object Tracking**, Hanzheng Wang, Wei Li, Xiang-Gen Xia, Qian Du, Jing Tian.
   [[Paper](https://arxiv.org/pdf/2403.05852.pdf)]
 * [TGRS-2024] **A Channel Adaptive Dual Siamese Network for Hyperspectral Object Tracking**, Xiao Jiang, Xinyu Wang, Chen Sun, Zengliang Zhu, Yanfei Zhong.
