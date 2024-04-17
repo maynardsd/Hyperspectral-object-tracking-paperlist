@@ -1,6 +1,9 @@
 # Paper list for hyperspectral object tracking
 
 ## Year 2024
+* [TCSVT-2024] **Domain Adaptation-aware Transformer for Hyperspectral Object Tracking**, Yinan Wu, Licheng Jiao, Xu Liu, Fang Liu, Shuyuan Yang, Lingling Li.
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/10491347)]
+  [[Code](https://github.com/LianYi233/Trans-DAT)]
 * [Inf Fusion-2024] **SENSE: Hyperspectral Video Object Tracker via Fusing Material and Motion Cues**, Yuzeng Chen, Qiangqiang Yuan, Yuqi Tang, Yi Xiao, Jiang He, Zhenqi Liu.
   [[Paper](https://www.sciencedirect.com/science/article/pii/S1566253524001738)]
 * [axriv-2024] **SSF-Net: Spatial-Spectral Fusion Network with Spectral Angle Awareness for Hyperspectral Object Tracking**, Hanzheng Wang, Wei Li, Xiang-Gen Xia, Qian Du, Jing Tian.
