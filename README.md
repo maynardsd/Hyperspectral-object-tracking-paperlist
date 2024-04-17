@@ -15,6 +15,7 @@
   [[Code](https://github.com/hscv/MMF-Net)]
 * [TGRS-2024] **SPIRIT: Spectral Awareness Interaction Network With Dynamic Template for Hyperspectral Object Tracking**, Yuzeng Chen, Qiangqiang Yuan, Yuqi Tang, Yi Xiao, Jiang He, Liangpei Zhang.
   [[Paper](https://ieeexplore.ieee.org/abstract/document/10375560)]
+  [[Code](https://github.com/YZCU/SPIRIT)]
 
 ## Year 2023
 * [arXiv-2023] **Hy-Tracker: A Novel Framework for Enhancing Efficiency and Accuracy of Object Tracking in Hyperspectral Videos**, Mohammad Aminul Islam, Wangzhi Xing, Jun Zhou, Yongsheng Gao, Kuldip K. Paliwal.
