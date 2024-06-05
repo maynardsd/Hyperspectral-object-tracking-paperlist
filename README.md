@@ -43,6 +43,19 @@
   [[Paper](https://ieeexplore.ieee.org/abstract/document/10288536)]
 * [NCA-2023] **A Siamese network-based tracking framework for hyperspectral video**, Yiming Tang, Hong Huang, Yufei Liu, Yuan Li .
   [[Paper](https://link.springer.com/article/10.1007/s00521-022-07712-5)]
+* [WHISPERS-2023] **VP-HOT: Visual Prompt for Hyperspectral Object Tracking**, Shaoxiong Xie, Jia Li, Lin Zhao, WenJing Hu, Guoyun Zhang, Jianhui Wu, Xinpin Li.
+  [[Paper](https://ieeexplore.ieee.org/document/10431061)]
+* [WHISPERS-2023] **HHTrack: Hyperspectral Object Tracking Based on Hybrid Attention**, Yuedong Tan, Wenfang Sun, Jieran Yuan, Wenwang Du, Zhe Wang, Nan Mao, Beibei Song.
+  [[Paper](https://ieeexplore.ieee.org/document/10431060)]
+* [WHISPERS-2023] **Multi-Band Hyperspectral Object Tracking: Leveraging Spectral Information Prompts and Spectral Scale-Aware Representation**, Hongjiao Liu, Jiayue He, Jinpeng Wang, Nan Su, Chunhui Zhao, Yiming Yan, Shou Feng, Ze Liu, Jianfei Liu, Zilong Zhao.
+  [[Paper](https://ieeexplore.ieee.org/document/10431304)]
+* [WHISPERS-2023] **HSPTrack: Hyperspectral Sequence Prediction Tracker with Transformers**, Ye Wang, Yuheng Liu, Mingyang Ma, Yuru Su, Shaohui Mei.
+  [[Paper](https://ieeexplore.ieee.org/document/10431033)]
+* [WHISPERS-2023] **Multi Modality Siamese Feature Fusion Transformer Tracker for Object Tracking from Hyperspectral Videos**, Mohammad Aminul Islam, Wangzhi Xing, Jun Zhou.
+  [[Paper](https://ieeexplore.ieee.org/document/10430985)]
+* [CVPR-2023] **Visual prompt multi-modal tracking**, Jiawen Zhu, Simiao Lai, Xin Chen, Dong Wang, Huchuan Lu.
+  [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zhu_Visual_Prompt_Multi-Modal_Tracking_CVPR_2023_paper.html)]
+  [[Code](https://github.com/laisimiao/ViPT_HOT2023)]
 
 ## Year 2022
 * [TIP-2022] **SiamHYPER: Learning a Hyperspectral Object Tracker From an RGB-Based Tracker**, Zhenqi Liu, Xinyu Wang, Yanfei Zhong, Meng Shu, Chen Sun.
