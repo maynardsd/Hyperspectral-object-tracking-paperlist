@@ -1,6 +1,8 @@
 # Paper list for hyperspectral object tracking
 
 ## Year 2024
+* [TGRS-2024] **Transformer-Based Band Regrouping with Feature Refinement for Hyperspectral Object Tracking**, Hanzheng Wang, Wei Li, Xiang-Gen Xia, Qian Du, Jing Tian, Qing Shen.
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/10574881)]
 * [TCSVT-2024] **Domain Adaptation-aware Transformer for Hyperspectral Object Tracking**, Yinan Wu, Licheng Jiao, Xu Liu, Fang Liu, Shuyuan Yang, Lingling Li.
   [[Paper](https://ieeexplore.ieee.org/abstract/document/10491347)]
   [[Code](https://github.com/LianYi233/Trans-DAT)]
