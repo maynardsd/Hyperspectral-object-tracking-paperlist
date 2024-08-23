@@ -1,6 +1,9 @@
 # Paper list for hyperspectral object tracking
 
 ## Year 2024
+* [TechRxiv-2024] **Hyperspectral Object Tracking with Spectral Information Prompt**, Long Gao, Langkun Chen, Yan Jiang, Weiying Xie, Yunsong Li.
+  [[Paper](https://www.techrxiv.org/doi/full/10.36227/techrxiv.172349620.00892203)]
+  [[Code](https://github.com/lgao001/SP-HST)]
 * [TGRS-2024] **Transformer-Based Band Regrouping with Feature Refinement for Hyperspectral Object Tracking**, Hanzheng Wang, Wei Li, Xiang-Gen Xia, Qian Du, Jing Tian, Qing Shen.
   [[Paper](https://ieeexplore.ieee.org/abstract/document/10574881)]
 * [TCSVT-2024] **Domain Adaptation-aware Transformer for Hyperspectral Object Tracking**, Yinan Wu, Licheng Jiao, Xu Liu, Fang Liu, Shuyuan Yang, Lingling Li.
