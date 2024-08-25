@@ -1,6 +1,8 @@
 # Paper list for hyperspectral object tracking
 
 ## Year 2024
+* [arXiv-2024] **BihoT: A Large-Scale Dataset and Benchmark for Hyperspectral Camouflaged Object Tracking**, Hanzheng Wang , Wei Li, Xiang-Gen Xia, Qian Du.
+  [[Paper](https://arxiv.org/pdf/2408.12232)]
 * [TechRxiv-2024] **Hyperspectral Object Tracking with Spectral Information Prompt**, Long Gao, Langkun Chen, Yan Jiang, Weiying Xie, Yunsong Li.
   [[Paper](https://www.techrxiv.org/doi/full/10.36227/techrxiv.172349620.00892203)]
   [[Code](https://github.com/lgao001/SP-HST)]
