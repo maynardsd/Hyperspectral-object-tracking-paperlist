@@ -1,6 +1,9 @@
 # Paper list for hyperspectral object tracking
 
 ## Year 2024
+* [Inf Fusion-2024] **SSTtrack: A Unified Hyperspectral Video Tracking Framework via Modeling Spectral-Spatial-Temporal Conditions**, Yuzeng Chen, Qiangqiang Yuan, Yuqi Tang, Yi Xiao, Jiang He, Te Han, Zhenqi Liu, Liangpei Zhang.
+  [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253524004366)]
+  [[Code](https://github.com/YZCU/SSTtrack-results)]
 * [arXiv-2024] **BihoT: A Large-Scale Dataset and Benchmark for Hyperspectral Camouflaged Object Tracking**, Hanzheng Wang , Wei Li, Xiang-Gen Xia, Qian Du.
   [[Paper](https://arxiv.org/pdf/2408.12232)]
 * [TechRxiv-2024] **Hyperspectral Object Tracking with Spectral Information Prompt**, Long Gao, Langkun Chen, Yan Jiang, Weiying Xie, Yunsong Li.
