@@ -1,6 +1,9 @@
 # Paper list for hyperspectral object tracking
 
 ## Year 2024
+* [TGRS-2024] **PHTrack: Prompting for Hyperspectral Video Tracking **, Yuzeng Chen, Yuqi Tang, Xin Su, Jie Li, Yi Xiao, Jiang He, and Qiangqiang Yuan.
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/10680554)]
+  [[Code](https://github.com/YZCU/PHTrack)]
 * [Inf Fusion-2024] **SSTtrack: A Unified Hyperspectral Video Tracking Framework via Modeling Spectral-Spatial-Temporal Conditions**, Yuzeng Chen, Qiangqiang Yuan, Yuqi Tang, Yi Xiao, Jiang He, Te Han, Zhenqi Liu, Liangpei Zhang.
   [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253524004366)]
   [[Code](https://github.com/YZCU/SSTtrack-results)]
