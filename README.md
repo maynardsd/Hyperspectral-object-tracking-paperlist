@@ -1,7 +1,7 @@
 # Paper list for hyperspectral object tracking
 
 ## Year 2024
-* [TGRS-2024] ** Hyperspectral Object Tracking with Dual-Stream Prompt**,  Rui Yao, Lu Zhang, Yong Zhou, Hancheng Zhu, Jiaqi Zhao, Zhiwen Shao.
+* [TGRS-2024] **Hyperspectral Object Tracking with Dual-Stream Prompt**,  Rui Yao, Lu Zhang, Yong Zhou, Hancheng Zhu, Jiaqi Zhao, Zhiwen Shao.
   [[Paper](https://ieeexplore.ieee.org/abstract/document/10798510)]
   [[Code](https://github.com/rayyao/HDSP)]
 * [TGRS-2024] **A Deep Temporal-Spectral-Spatial Anchor-Free Siamese Tracking Network for Hyperspectral Video Object Tracking**, Zhenqi Liu, Yanfei Zhong, Guorui Ma, Xinyu Wang, Liangpei Zhang.
