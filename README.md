@@ -7,7 +7,7 @@
 * [TGRS-2024] **A Deep Temporal-Spectral-Spatial Anchor-Free Siamese Tracking Network for Hyperspectral Video Object Tracking**, Zhenqi Liu, Yanfei Zhong, Guorui Ma, Xinyu Wang, Liangpei Zhang.
   [[Paper](https://ieeexplore.ieee.org/abstract/document/10720817)]
   [[Code](https://github.com/zhenliuzhenqi/HOT)]
-* [TGRS-2024] **PHTrack: Prompting for Hyperspectral Video Tracking **, Yuzeng Chen, Yuqi Tang, Xin Su, Jie Li, Yi Xiao, Jiang He, and Qiangqiang Yuan.
+* [TGRS-2024] **PHTrack: Prompting for Hyperspectral Video Tracking**, Yuzeng Chen, Yuqi Tang, Xin Su, Jie Li, Yi Xiao, Jiang He, and Qiangqiang Yuan.
   [[Paper](https://ieeexplore.ieee.org/abstract/document/10680554)]
   [[Code](https://github.com/YZCU/PHTrack)]
 * [Inf Fusion-2024] **SSTtrack: A Unified Hyperspectral Video Tracking Framework via Modeling Spectral-Spatial-Temporal Conditions**, Yuzeng Chen, Qiangqiang Yuan, Yuqi Tang, Yi Xiao, Jiang He, Te Han, Zhenqi Liu, Liangpei Zhang.
