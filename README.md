@@ -1,5 +1,9 @@
 # Paper list for hyperspectral object tracking
 
+## Year 2025
+* [TMM-2025] **HTACPE: A Hybrid Transformer with Adaptive Content and Position Embedding for Sample Learning Efficiency of Hyperspectral Tracker**,  Ye Wang, Shaohui Mei, Mingyang Ma, Yuheng Liu, Yuru Su.
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/10820018)]
+
 ## Year 2024
 * [TGRS-2024] **Hyperspectral Object Tracking with Dual-Stream Prompt**,  Rui Yao, Lu Zhang, Yong Zhou, Hancheng Zhu, Jiaqi Zhao, Zhiwen Shao.
   [[Paper](https://ieeexplore.ieee.org/abstract/document/10798510)]
