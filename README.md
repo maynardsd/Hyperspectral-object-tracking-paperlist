@@ -42,6 +42,9 @@
   [[Code](https://github.com/YZCU/SPIRIT)]
 
 ## Year 2023
+* [ISPRS-2023] **SFA-guided mosaic transformer for tracking small objects in snapshot spectral imaging**, Lulu Chen, Yongqiang Zhao, Seong G. Kong.
+  [[Paper](https://www.sciencedirect.com/science/article/pii/S0924271623002551)]
+  [[Code](https://github.com/Chenlulu1993/SMT)]
 * [arXiv-2023] **Hy-Tracker: A Novel Framework for Enhancing Efficiency and Accuracy of Object Tracking in Hyperspectral Videos**, Mohammad Aminul Islam, Wangzhi Xing, Jun Zhou, Yongsheng Gao, Kuldip K. Paliwal.
   [[Paper](https://browse.arxiv.org/pdf/2311.18199.pdf)]
 * [arXiv-2023] **HHTrack: Hyperspectral Object Tracking Using Hybrid Attention**, Yuedong Tan, Wenfang Sun, Jieran Yuan, Wenwang Du, Zhe Wang, Nan Mao, Beibei Song.
