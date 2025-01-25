@@ -1,6 +1,9 @@
 # Paper list for hyperspectral object tracking
 
 ## Year 2025
+* [PR-2025] **Multi-domain universal representation learning for hyperspectral object tracking**,  Zhuanfeng Li, Fengchao Xiong, Jianfeng Lu, Jing Wang, Diqi Chen, Jun Zhou, Yuntao Qian.
+  [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320325000494)]
+  [[Code](https://github.com/hscv/DaSSP-Net)]
 * [TMM-2025] **HTACPE: A Hybrid Transformer with Adaptive Content and Position Embedding for Sample Learning Efficiency of Hyperspectral Tracker**,  Ye Wang, Shaohui Mei, Mingyang Ma, Yuheng Liu, Yuru Su.
   [[Paper](https://ieeexplore.ieee.org/abstract/document/10820018)]
 
