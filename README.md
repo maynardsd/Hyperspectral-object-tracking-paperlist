@@ -1,7 +1,7 @@
 # Paper list for hyperspectral object tracking
 
 ## Year 2025
-* [TMM-2025] ** HotMoE: Exploring Sparse Mixture-of-Experts for Hyperspectral Object Tracking**,  Wenfang Sun, Yuedong Tan, Jingyuan Li, Shuwei Hou, Xiaobo Li, Yingzhao Shao, Zhe Wang, Beibei Song.
+* [TMM-2025] **HotMoE: Exploring Sparse Mixture-of-Experts for Hyperspectral Object Tracking**,  Wenfang Sun, Yuedong Tan, Jingyuan Li, Shuwei Hou, Xiaobo Li, Yingzhao Shao, Zhe Wang, Beibei Song.
   [[Paper](https://ieeexplore.ieee.org/abstract/document/10855488)]
   [[Code](https://github.com/supertyd/hotmoe)]
 * [PR-2025] **Multi-domain universal representation learning for hyperspectral object tracking**,  Zhuanfeng Li, Fengchao Xiong, Jianfeng Lu, Jing Wang, Diqi Chen, Jun Zhou, Yuntao Qian.
@@ -9,6 +9,9 @@
   [[Code](https://github.com/hscv/DaSSP-Net)]
 * [TMM-2025] **HTACPE: A Hybrid Transformer with Adaptive Content and Position Embedding for Sample Learning Efficiency of Hyperspectral Tracker**,  Ye Wang, Shaohui Mei, Mingyang Ma, Yuheng Liu, Yuru Su.
   [[Paper](https://ieeexplore.ieee.org/abstract/document/10820018)]
+* [ESA-2025] **SASU-Net:Hyperspectral video tracker based on spectral adaptive aggregation weighting andscaleupdating**, Dong Zhao, Haorui Zhang, Pattathal V. Arun, Kunpeng Huang, Wenhao Jiang, Shiyu Lia, Xuguang Zhu, Xiaofang Pei, Huixin Zhou.
+  [[Paper](https://www.sciencedirect.com/science/article/pii/S0957417425003434)]
+  [[Code](https://github.com/CodeMANz11/SASUNet)]
 
 ## Year 2024
 * [TGRS-2024] **Hyperspectral Object Tracking with Dual-Stream Prompt**,  Rui Yao, Lu Zhang, Yong Zhou, Hancheng Zhu, Jiaqi Zhao, Zhiwen Shao.
