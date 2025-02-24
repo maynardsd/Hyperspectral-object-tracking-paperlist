@@ -9,7 +9,7 @@
   [[Code](https://github.com/hscv/DaSSP-Net)]
 * [TMM-2025] **HTACPE: A Hybrid Transformer with Adaptive Content and Position Embedding for Sample Learning Efficiency of Hyperspectral Tracker**,  Ye Wang, Shaohui Mei, Mingyang Ma, Yuheng Liu, Yuru Su.
   [[Paper](https://ieeexplore.ieee.org/abstract/document/10820018)]
-* [ESA-2025] **SASU-Net:Hyperspectral video tracker based on spectral adaptive aggregation weighting andscaleupdating**, Dong Zhao, Haorui Zhang, Pattathal V. Arun, Kunpeng Huang, Wenhao Jiang, Shiyu Lia, Xuguang Zhu, Xiaofang Pei, Huixin Zhou.
+* [ESA-2025] **SASU-Net:Hyperspectral video tracker based on spectral adaptive aggregation weighting and scale updating**, Dong Zhao, Haorui Zhang, Pattathal V. Arun, Kunpeng Huang, Wenhao Jiang, Shiyu Lia, Xuguang Zhu, Xiaofang Pei, Huixin Zhou.
   [[Paper](https://www.sciencedirect.com/science/article/pii/S0957417425003434)]
   [[Code](https://github.com/CodeMANz11/SASUNet)]
 
