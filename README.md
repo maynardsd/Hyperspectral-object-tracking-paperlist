@@ -1,6 +1,9 @@
 # Paper list for hyperspectral object tracking
 
 ## Year 2025
+* [TGRS-2025] **Spatial-Spectral-Temporal Correlation Filter for Hyperspectral Object Tracking**,  Fengchao Xiong, Yongle Sun, Jun Zhou, Jianfeng Lu, Yuntao Qian.
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/10904928)]
+  [[Code](https://github.com/bearshng/SSTCF)]
 * [TMM-2025] **HotMoE: Exploring Sparse Mixture-of-Experts for Hyperspectral Object Tracking**,  Wenfang Sun, Yuedong Tan, Jingyuan Li, Shuwei Hou, Xiaobo Li, Yingzhao Shao, Zhe Wang, Beibei Song.
   [[Paper](https://ieeexplore.ieee.org/abstract/document/10855488)]
   [[Code](https://github.com/supertyd/hotmoe)]
