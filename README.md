@@ -1,6 +1,8 @@
 # Paper list for hyperspectral object tracking
 
 ## Year 2025
+* [arxiv-2025] ** Hyperspectral Adapter for Object Tracking based on Hyperspectral Video**, Long Gao, Yunhe Zhang, Langkun Chen, Yan Jiang, Weiying Xie, Yunsong Li.
+  [[Paper](https://arxiv.org/pdf/2503.22199)]
 * [CVPR-2025] **MUST:TheFirst Dataset and Unified Framework for Multispectral UAV Single Object Tracking**, Haolin Qin, Tingfa Xu, Tianhao Li, Zhenxiang Chen, Tao Feng, Jianan Li.
   [[Paper](https://arxiv.org/pdf/2503.17699)]
   [[Code](https://github.com/q2479036243/MUST-Multispectral-UAV-Single-Object-Tracking)]
