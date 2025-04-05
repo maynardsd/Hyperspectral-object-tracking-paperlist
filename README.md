@@ -120,6 +120,7 @@
   [[Paper](https://www.mdpi.com/2072-4292/14/15/3512)]
 * [ICASSP-2022] **Material-Guided Siamese Fusion Network for Hyperspectral Object Tracking**, Zhuanfeng Li, Fengchao Xiong, Jianfeng Lu, Jun Zhou, Yuntao Qian.
   [[Paper](https://ieeexplore.ieee.org/abstract/document/9746089)]
+  [[Code](https://github.com/hscv/SiamF)]
 * [WHISPERS-2022] **A Fast Hyperspectral Object Tracking Method Based On Channel Selection Strategy**, Yifan Zhang, Xu Li, Feiyue Wang, Baoguo Wei, Lixin Li.
   [[Paper](https://ieeexplore.ieee.org/abstract/document/9955094)]
 * [WHISPERS-2022] **Spectral-Spatial-Aware Transformer Fusion Network For Hyperspectral Object Tracking**, Ye Wang, Yuheng Liu, Ge Zhang, Yuru Su, Shun Zhang, Shaohui Mei.
