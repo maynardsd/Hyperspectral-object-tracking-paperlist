@@ -1,6 +1,8 @@
 # Paper list for hyperspectral object tracking
 
 ## Year 2025
+* [TGRS-2025] **Hyperspectral Object Tracking With Context-Aware Learning and Category Consistency**, Ye Wang, Shaohui Mei, Mingyang Ma, Yuheng Liu, Tao Gao, Huiyang Han.
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/10928989)]
 * [arxiv-2025] **Hyperspectral Adapter for Object Tracking based on Hyperspectral Video**, Long Gao, Yunhe Zhang, Langkun Chen, Yan Jiang, Weiying Xie, Yunsong Li.
   [[Paper](https://arxiv.org/pdf/2503.22199)]
 * [CVPR-2025] **MUST:TheFirst Dataset and Unified Framework for Multispectral UAV Single Object Tracking**, Haolin Qin, Tingfa Xu, Tianhao Li, Zhenxiang Chen, Tao Feng, Jianan Li.
