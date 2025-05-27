@@ -1,6 +1,9 @@
 # Paper list for hyperspectral object tracking
 
 ## Year 2025
+* [ISPRS-2025] **ProFiT: A prompt-guided frequency-aware filtering and template-enhanced interaction framework for hyperspectral video tracking**, Yuzeng Chen, Qiangqiang Yuan, Yuqi Tang, Xin Wang, Yi Xiao, Jiang He, Ziyang Lihe, Xianyu Jin.
+  [[Paper](https://www.sciencedirect.com/science/article/pii/S0924271625001893)]
+  [[Code](https://github.com/YZCU/ProFiT)]
 * [TGRS-2025] **Hyperspectral Object Tracking With Context-Aware Learning and Category Consistency**, Ye Wang, Shaohui Mei, Mingyang Ma, Yuheng Liu, Tao Gao, Huiyang Han.
   [[Paper](https://ieeexplore.ieee.org/abstract/document/10928989)]
 * [arxiv-2025] **Hyperspectral Adapter for Object Tracking based on Hyperspectral Video**, Long Gao, Yunhe Zhang, Langkun Chen, Yan Jiang, Weiying Xie, Yunsong Li.
