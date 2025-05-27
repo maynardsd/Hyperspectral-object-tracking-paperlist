@@ -1,6 +1,9 @@
 # Paper list for hyperspectral object tracking
 
 ## Year 2025
+* [TIP-2025] **Hyperspectral Video Tracking with Spectral-Spatial Fusion and Memory Enhancement**, Yuzeng Chen, Qiangqiang Yuan, Hong Xie, Yuqi Tang, Yi Xiao, Jiang He, Renxiang Guan, Xinwang Liu, Liangpei Zhang
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/11007172)]
+  [[Code](https://github.com/YZCU/SpectralTrack)]
 * [ACMTOMM-2025] **Historical Object-Aware Prompt Learning for Universal Hyperspectral Object Tracking**, Lu Zhang, Rui Yao, Yuhong Zhang, Yong Zhou, Fuyuan Hu, Jiaqi Zhao, Zhiwen Shao.
   [[Paper](https://dl.acm.org/doi/pdf/10.1145/3736581)]
   [[Code](https://github.com/rayyao/HOPL)]
