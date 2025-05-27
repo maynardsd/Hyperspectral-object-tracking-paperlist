@@ -1,6 +1,9 @@
 # Paper list for hyperspectral object tracking
 
 ## Year 2025
+* [TGRS-2025] **UBSTrack: Unified Band Selection and Multi-Model Ensemble for Hyperspectral Object Tracking**, Mohammad Aminul Islam, Jun Zhou, Wangzhi Xing, Yongsheng Gao, Kuldip K. Paliwal
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/11007116)]
+  [[Code](https://github.com/aamin0102/UBSTrack)]
 * [TIP-2025] **Hyperspectral Video Tracking with Spectral-Spatial Fusion and Memory Enhancement**, Yuzeng Chen, Qiangqiang Yuan, Hong Xie, Yuqi Tang, Yi Xiao, Jiang He, Renxiang Guan, Xinwang Liu, Liangpei Zhang
   [[Paper](https://ieeexplore.ieee.org/abstract/document/11007172)]
   [[Code](https://github.com/YZCU/SpectralTrack)]
@@ -74,7 +77,8 @@
   [[Paper](https://www.sciencedirect.com/science/article/pii/S0924271623002551)]
   [[Code](https://github.com/Chenlulu1993/SMT)]
 * [arXiv-2023] **Hy-Tracker: A Novel Framework for Enhancing Efficiency and Accuracy of Object Tracking in Hyperspectral Videos**, Mohammad Aminul Islam, Wangzhi Xing, Jun Zhou, Yongsheng Gao, Kuldip K. Paliwal.
-  [[Paper](https://browse.arxiv.org/pdf/2311.18199.pdf)]
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/10569013)]
+  [[Code](https://github.com/aamin0102/HyTracker)]
 * [arXiv-2023] **HHTrack: Hyperspectral Object Tracking Using Hybrid Attention**, Yuedong Tan, Wenfang Sun, Jieran Yuan, Wenwang Du, Zhe Wang, Nan Mao, Beibei Song.
   [[Paper](https://browse.arxiv.org/pdf/2308.07016.pdf)]
 * [TGRS-2023] **SiamOHOT: A Lightweight Dual Siamese Network for Onboard Hyperspectral Object Tracking via Joint Spatial–Spectral Knowledge Distillation**, Chen Sun, Xinyu Wang, Zhenqi Liu, Yuting Wan, Liangpei Zhang, Yanfei Zhong.
@@ -96,6 +100,7 @@
   [[Paper](https://www.mdpi.com/2072-4292/15/7/1735)]
 * [GRSL-2023] **Background-Aware Band Selection for Object Tracking in Hyperspectral Videos**, Mohammad Aminul Islam, Jun Zhou, Weichuan Zhang, Yongsheng Gao.
   [[Paper](https://ieeexplore.ieee.org/abstract/document/10288536)]
+  [[Code](https://github.com/aamin0102/BABS)]
 * [NCA-2023] **A Siamese network-based tracking framework for hyperspectral video**, Yiming Tang, Hong Huang, Yufei Liu, Yuan Li .
   [[Paper](https://link.springer.com/article/10.1007/s00521-022-07712-5)]
 * [WHISPERS-2023] **VP-HOT: Visual Prompt for Hyperspectral Object Tracking**, Shaoxiong Xie, Jia Li, Lin Zhao, WenJing Hu, Guoyun Zhang, Jianhui Wu, Xinpin Li.
