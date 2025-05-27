@@ -1,6 +1,9 @@
 # Paper list for hyperspectral object tracking
 
 ## Year 2025
+* [ACMTOMM-2025] **Historical Object-Aware Prompt Learning for Universal Hyperspectral Object Tracking**, Lu Zhang, Rui Yao, Yuhong Zhang, Yong Zhou, Fuyuan Hu, Jiaqi Zhao, Zhiwen Shao.
+  [[Paper](https://dl.acm.org/doi/pdf/10.1145/3736581)]
+  [[Code](https://github.com/rayyao/HOPL)]
 * [ISPRS-2025] **ProFiT: A prompt-guided frequency-aware filtering and template-enhanced interaction framework for hyperspectral video tracking**, Yuzeng Chen, Qiangqiang Yuan, Yuqi Tang, Xin Wang, Yi Xiao, Jiang He, Ziyang Lihe, Xianyu Jin.
   [[Paper](https://www.sciencedirect.com/science/article/pii/S0924271625001893)]
   [[Code](https://github.com/YZCU/ProFiT)]
