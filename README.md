@@ -1,6 +1,8 @@
 # Paper list for hyperspectral object tracking
 
 ## Year 2025
+* [ICMR-2025] **A Multi-Stream Visual-Spectral-Spatial Adaptive Hyperspectral Object Tracking**, Pengfei Wei, Liu Qiao, Zhenyu He, Di Yuan.
+  [[Paper](https://dl.acm.org/doi/abs/10.1145/3731715.3733262)]
 * [TCSVT-2025] **Hyperspectral Object Tracking with Spectral Information Prompt**, Gang He, Long Gao, Langkun Chen, Yan Jiang, Weiying Xie, Yunsong Li.
   [[Paper](https://ieeexplore.ieee.org/abstract/document/11029092)]
   [[Code](https://github.com/lgao001/SP-HST)]
