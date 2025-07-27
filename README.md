@@ -1,6 +1,9 @@
 # Paper list for hyperspectral object tracking
 
 ## Year 2025
+* [TCSVT-2025] **Hyperspectral Tracker with Constrained Object Adaptive Learning and Trajectory Construction**, Ye Wang, Mingyang Ma, Ge Zhang, Yuheng Liu, Tao Gao, Shaohui Mei.
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/11078392)]
+  [[Code](https://github.com/PING-CHUANG/COALT)]
 * [ICMR-2025] **A Multi-Stream Visual-Spectral-Spatial Adaptive Hyperspectral Object Tracking**, Pengfei Wei, Liu Qiao, Zhenyu He, Di Yuan.
   [[Paper](https://dl.acm.org/doi/abs/10.1145/3731715.3733262)]
 * [TCSVT-2025] **Hyperspectral Object Tracking with Spectral Information Prompt**, Gang He, Long Gao, Langkun Chen, Yan Jiang, Weiying Xie, Yunsong Li.
