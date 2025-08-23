@@ -1,6 +1,8 @@
 # Paper list for hyperspectral object tracking
 
 ## Year 2025
+* [Arxiv-2025] **SUIT: Spatial-Spectral Union-Intersection Interaction Network for Hyperspectral Object Tracking**, Fengchao Xiong, Zhenxing Wu, Sen Jia, Yuntao Qian.
+  [[Paper](https://arxiv.org/pdf/2508.07250)]
 * [TCSVT-2025] **Hyperspectral Tracker with Constrained Object Adaptive Learning and Trajectory Construction**, Ye Wang, Mingyang Ma, Ge Zhang, Yuheng Liu, Tao Gao, Shaohui Mei.
   [[Paper](https://ieeexplore.ieee.org/abstract/document/11078392)]
   [[Code](https://github.com/PING-CHUANG/COALT)]
