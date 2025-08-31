@@ -1,6 +1,11 @@
 # Paper list for hyperspectral object tracking
 
 ## Year 2025
+* [TCSVT-2025] **HyperTrack: A Unified Network for Hyperspectral Video Object Tracking**, Yuedong Tan, Wenfang Sun, Jingyuan Li, Shuwei Hou, Xiaobo Li, Zhe Wang.
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/11131287)]
+  [[Code](https://github.com/supertyd/HyperTrack)]
+* [PR-2025] **Domain Adapter for Visual Object Tracking based on Hyperspectral Video**, Long Gao, Yunhe Zhang, Langkun Chen, Yan Jiang, Gang He, Weiying Xie, Yunsong Li.
+  [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320325009574)]
 * [Arxiv-2025] **SUIT: Spatial-Spectral Union-Intersection Interaction Network for Hyperspectral Object Tracking**, Fengchao Xiong, Zhenxing Wu, Sen Jia, Yuntao Qian.
   [[Paper](https://arxiv.org/pdf/2508.07250)]
 * [TCSVT-2025] **Hyperspectral Tracker with Constrained Object Adaptive Learning and Trajectory Construction**, Ye Wang, Mingyang Ma, Ge Zhang, Yuheng Liu, Tao Gao, Shaohui Mei.
