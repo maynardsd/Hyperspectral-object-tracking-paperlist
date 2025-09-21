@@ -1,6 +1,8 @@
 # Paper list for hyperspectral object tracking
 
 ## Year 2025
+* [Axriv-2025] **Hyperspectral Mamba for Hyperspectral Object Tracking**, Long Gaoa, Yunhe Zhang, Yan Jiang, Weiying Xie, Yunsong Li.
+  [[Paper](https://arxiv.org/pdf/2509.08265)]
 * [TCSVT-2025] **HyperTrack: A Unified Network for Hyperspectral Video Object Tracking**, Yuedong Tan, Wenfang Sun, Jingyuan Li, Shuwei Hou, Xiaobo Li, Zhe Wang.
   [[Paper](https://ieeexplore.ieee.org/abstract/document/11131287)]
   [[Code](https://github.com/supertyd/HyperTrack)]
