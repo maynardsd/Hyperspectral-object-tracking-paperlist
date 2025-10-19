@@ -1,7 +1,14 @@
 # Paper list for hyperspectral object tracking
 
 ## Year 2025
-* [Axriv-2025] **Hyperspectral Mamba for Hyperspectral Object Tracking**, Long Gaoa, Yunhe Zhang, Yan Jiang, Weiying Xie, Yunsong Li.
+* [Axriv-2025] **MSITrack:A Challenging Benchmark for Multispectral Single Object Tracking**, Tao Feng, Tingfa Xu, Haolin Qin, Tianhao Li, Shuaihao Han, Xuyang Zou,
+ Zhan Lv, Jianan Li.
+  [[Paper](https://arxiv.org/pdf/2510.06619)]
+  [[Code](https://github.com/Fengtao191/MSITrack)]
+* [Axriv-2025] **MMOT:TheFirst Challenging Benchmark for Drone-based Multispectral Multi-Object Tracking**, Tianhao Li, Tingfa Xu, Ying Wang, Haolin Qin, Xu Lin, Jianan Li.
+  [[Paper](https://arxiv.org/pdf/2510.12565)]
+  [[Code](https://github.com/Annzstbl/MMOT)]
+* [Axriv-2025] **Hyperspectral Mamba for Hyperspectral Object Tracking**, Long Gao, Yunhe Zhang, Yan Jiang, Weiying Xie, Yunsong Li.
   [[Paper](https://arxiv.org/pdf/2509.08265)]
 * [TCSVT-2025] **HyperTrack: A Unified Network for Hyperspectral Video Object Tracking**, Yuedong Tan, Wenfang Sun, Jingyuan Li, Shuwei Hou, Xiaobo Li, Zhe Wang.
   [[Paper](https://ieeexplore.ieee.org/abstract/document/11131287)]
