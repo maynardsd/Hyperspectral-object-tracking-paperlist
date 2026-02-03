@@ -1,8 +1,9 @@
 # Paper list for hyperspectral object tracking
 
 ## Year 2025
-* [Axriv-2025] **MSITrack:A Challenging Benchmark for Multispectral Single Object Tracking**, Tao Feng, Tingfa Xu, Haolin Qin, Tianhao Li, Shuaihao Han, Xuyang Zou,
- Zhan Lv, Jianan Li.
+* [TPAMI-2025] **Causal HyperPrompter: A Framework for Unbiased Hyperspectral Camouflaged Object Tracking**, Hanzheng Wang , Wei Li, Xiang-Gen Xia, Qian Du.
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/11314773)]
+* [Axriv-2025] **MSITrack:A Challenging Benchmark for Multispectral Single Object Tracking**, Tao Feng, Tingfa Xu, Haolin Qin, Tianhao Li, Shuaihao Han, Xuyang Zou, Zhan Lv, Jianan Li.
   [[Paper](https://arxiv.org/pdf/2510.06619)]
   [[Code](https://github.com/Fengtao191/MSITrack)]
 * [Axriv-2025] **MMOT:TheFirst Challenging Benchmark for Drone-based Multispectral Multi-Object Tracking**, Tianhao Li, Tingfa Xu, Ying Wang, Haolin Qin, Xu Lin, Jianan Li.
