@@ -3,6 +3,9 @@
 ## Year 2025
 * [TPAMI-2025] **Causal HyperPrompter: A Framework for Unbiased Hyperspectral Camouflaged Object Tracking**, Hanzheng Wang , Wei Li, Xiang-Gen Xia, Qian Du.
   [[Paper](https://ieeexplore.ieee.org/abstract/document/11314773)]
+* [PR-2025] **A unified spatial-spectral-temporal network for hyperspectral object tracking**, Zhuanfeng Li, Jing Wang, Jue Zhang, Dong Zhao, Guanyiman Fu, Jiangtao Wang, Jianfeng Lu.
+  [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320325016681)]
+  [[Code](https://github.com/hscv/CSSTrack)]
 * [Axriv-2025] **MSITrack:A Challenging Benchmark for Multispectral Single Object Tracking**, Tao Feng, Tingfa Xu, Haolin Qin, Tianhao Li, Shuaihao Han, Xuyang Zou, Zhan Lv, Jianan Li.
   [[Paper](https://arxiv.org/pdf/2510.06619)]
   [[Code](https://github.com/Fengtao191/MSITrack)]
