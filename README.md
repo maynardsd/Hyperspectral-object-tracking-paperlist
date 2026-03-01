@@ -1,5 +1,9 @@
 # Paper list for hyperspectral object tracking
 
+## Year 2026
+* [TGRS-2026] **Bring KANs to Tracker: A Nonlinear Fusion Strategy Over Frequency Decoupling for Temporal Hyperspectral Object Tracking**, Hanzheng Wang , Wei Li, Xiang-Gen Xia, Bolun Cui, Zhicheng Shi, Hongyang Lin.
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/11367018)]
+
 ## Year 2025
 * [TPAMI-2025] **Causal HyperPrompter: A Framework for Unbiased Hyperspectral Camouflaged Object Tracking**, Hanzheng Wang , Wei Li, Xiang-Gen Xia, Qian Du.
   [[Paper](https://ieeexplore.ieee.org/abstract/document/11314773)]
