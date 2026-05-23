@@ -1,6 +1,9 @@
 # Paper list for hyperspectral object tracking
 
 ## Year 2026
+* [ISPRS-2026] **Hyperspectral object tracking with dimensionality reduction and spatial–spectral–temporal modeling**, Zhuanfeng Li, Jing Wang, Jue Zhang, Diqi Chen, Guanyiman Fu, Jiangtao Wang, Jianfeng Lu.
+  [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0924271626002352)]
+  [[Code](https://github.com/hscv/DRSST-Net)]
 * [TGRS-2026] **Bring KANs to Tracker: A Nonlinear Fusion Strategy Over Frequency Decoupling for Temporal Hyperspectral Object Tracking**, Hanzheng Wang , Wei Li, Xiang-Gen Xia, Bolun Cui, Zhicheng Shi, Hongyang Lin.
   [[Paper](https://ieeexplore.ieee.org/abstract/document/11367018)]
 
