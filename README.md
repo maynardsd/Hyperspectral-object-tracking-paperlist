@@ -1,6 +1,16 @@
 # Paper list for hyperspectral object tracking
 
 ## Year 2026
+* [TGRS-2026] **HOTMM: Direction-Aware Spatial–Spectral Mamba With Long-Range Memory Guidance for Hyperspectral Object Tracking**, Junnan Xu, Shaohui Mei, Yiqing Zhou, Yi Wang, Mingyang Ma, Jiao Shi.
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/11569084)]
+* [PR-2026] **Siamese Mamba with Dynamic Relational Matcher for hyperspectral object tracking**, Minghao Zhu, Chongchong Wang, Heng Wang, Yuebo Meng, Yaohai Lin, Junyi Li, Zongfang Ma.
+  [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320326010484)]
+* [TCSVT-2026] **FSMT: Frequency-Spatial Mixture-of-Experts Hyperspectral Object Tracking**, Long Gao, Zhuoyan Liu, Yunhe Zhang, Yan Jiang, Weiying Xie, Yunsong Li.
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/11526988)]
+  [[Code](https://github.com/lgao001/FSMT)]
+* [arxiv-2026] **End-to-End Unmixing with Material Prompts for Hyperspectral Object Tracking**, Xu Han, Mohammad Aminul Islam, Lei Wang, Zekun Long, Guanmanyi Fu, Wangshu Cai, Kuldip K. Paliwal, Jun Zhou.
+  [[Paper](https://arxiv.org/pdf/2605.20569)]
+  [[Code](https://github.com/han030927/E2EMPT)]
 * [ISPRS-2026] **Hyperspectral object tracking with dimensionality reduction and spatial–spectral–temporal modeling**, Zhuanfeng Li, Jing Wang, Jue Zhang, Diqi Chen, Guanyiman Fu, Jiangtao Wang, Jianfeng Lu.
   [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0924271626002352)]
   [[Code](https://github.com/hscv/DRSST-Net)]
