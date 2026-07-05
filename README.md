@@ -1,6 +1,10 @@
 # Paper list for hyperspectral object tracking
 
 ## Year 2026
+* [arxiv-2026] **Vision-Language Guided Hyperspectral Object Tracking via Semantics Fusion and Contextual Template Updating**, Rui Yao, Yuhong Zhang, Kunyang Sun, Hancheng Zhu, Jiaqi Zhao, Zhiwen Shao, Abdulmotaleb El Saddik.
+  [[Paper](https://arxiv.org/pdf/2606.09167)]
+* [TCSVT-2026] **CASS: A Context-Aware Memory Framework with Spectral-Spatial Modulation for UAV Multispectral Video Tracking**, Yuzeng Chen, Qiangqiang Yuan, Bineng Zhong, Xiantao Hu, Jie Zhou, Xi Zhao.
+  [[Paper](https://ieeexplore.ieee.org/document/11586086)]
 * [TGRS-2026] **HOTMM: Direction-Aware Spatial–Spectral Mamba With Long-Range Memory Guidance for Hyperspectral Object Tracking**, Junnan Xu, Shaohui Mei, Yiqing Zhou, Yi Wang, Mingyang Ma, Jiao Shi.
   [[Paper](https://ieeexplore.ieee.org/abstract/document/11569084)]
 * [PR-2026] **Siamese Mamba with Dynamic Relational Matcher for hyperspectral object tracking**, Minghao Zhu, Chongchong Wang, Heng Wang, Yuebo Meng, Yaohai Lin, Junyi Li, Zongfang Ma.
