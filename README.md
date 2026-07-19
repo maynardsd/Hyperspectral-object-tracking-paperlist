@@ -1,6 +1,11 @@
 # Paper list for hyperspectral object tracking
 
 ## Year 2026
+* [TNNLS-2026] **TMMSAM2: Tracker-Aided Multitemporal Memory SAM2 for Hyperspectral Object Tracking**, Xiyou Fu, Ting Zhang, Xiaoyu Zhang, Mingying Lin, Zijun Lv, Wangquan He, Qi Ren, Meng Xu, Sen Jia.
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/11597947)]
+* [arxiv-2026] **SpecTrack: Spectral Prompt Guided Adaptive Experts for Multispectral Object Tracking**, Xingyu Tan, Yunrong Qin, Qing Song, Chun Liu, Mengjie Hu.
+  [[Paper](https://arxiv.org/pdf/2607.05988)]
+  [[Code](https://github.com/Star-Swift/SpecTrack)]
 * [arxiv-2026] **Vision-Language Guided Hyperspectral Object Tracking via Semantics Fusion and Contextual Template Updating**, Rui Yao, Yuhong Zhang, Kunyang Sun, Hancheng Zhu, Jiaqi Zhao, Zhiwen Shao, Abdulmotaleb El Saddik.
   [[Paper](https://arxiv.org/pdf/2606.09167)]
 * [TCSVT-2026] **CASS: A Context-Aware Memory Framework with Spectral-Spatial Modulation for UAV Multispectral Video Tracking**, Yuzeng Chen, Qiangqiang Yuan, Bineng Zhong, Xiantao Hu, Jie Zhou, Xi Zhao.
