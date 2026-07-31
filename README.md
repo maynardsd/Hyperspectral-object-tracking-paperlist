@@ -1,6 +1,8 @@
 # Paper list for hyperspectral object tracking
 
 ## Year 2026
+* [TGRS-2026] **HEATTrack: History Evidence Injection and Target-Aware Prompting for Aerial Multispectral Single-Object Tracking**, Ling Yan, Xueyan Dong, Jian Yang, Qi Wang, Zhichao Meng, Zhong Wang, Yuchao Dai.
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/11593902)]
 * [TNNLS-2026] **TMMSAM2: Tracker-Aided Multitemporal Memory SAM2 for Hyperspectral Object Tracking**, Xiyou Fu, Ting Zhang, Xiaoyu Zhang, Mingying Lin, Zijun Lv, Wangquan He, Qi Ren, Meng Xu, Sen Jia.
   [[Paper](https://ieeexplore.ieee.org/abstract/document/11597947)]
 * [arxiv-2026] **SpecTrack: Spectral Prompt Guided Adaptive Experts for Multispectral Object Tracking**, Xingyu Tan, Yunrong Qin, Qing Song, Chun Liu, Mengjie Hu.
