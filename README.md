@@ -1,6 +1,12 @@
 # Paper list for hyperspectral object tracking
 
 ## Year 2026
+* [ESA-2026] **Learning tensor correlation filter with fused low-rank and smoothness priors for hyperspectral video object tracking**, Na-Na Li, Heng-Chao Li, Wen-Shuai Hu, Jian-Li Wang, Ran Tao, Qian Du.
+  [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417426027752)]
+  [[Code](https://github.com/nnli2026/HOT_TCF_FLSP)]
+* [arxiv-2026] **MSP-Net: Manifold-Guided Spectral Prompt Network for Hyperspectral Object Tracking**, Juliu Li, Hanlin Qin, Shuowen Yang, Jingjing Li, Yuedong Tan, Shuai Yuan, Huixin Zhou.
+  [[Paper](https://arxiv.org/pdf/2608.09575)]
+  [[Code](https://github.com/GGML668897/MSP-Net)]
 * [TGRS-2026] **HEATTrack: History Evidence Injection and Target-Aware Prompting for Aerial Multispectral Single-Object Tracking**, Ling Yan, Xueyan Dong, Jian Yang, Qi Wang, Zhichao Meng, Zhong Wang, Yuchao Dai.
   [[Paper](https://ieeexplore.ieee.org/abstract/document/11593902)]
 * [TNNLS-2026] **TMMSAM2: Tracker-Aided Multitemporal Memory SAM2 for Hyperspectral Object Tracking**, Xiyou Fu, Ting Zhang, Xiaoyu Zhang, Mingying Lin, Zijun Lv, Wangquan He, Qi Ren, Meng Xu, Sen Jia.
